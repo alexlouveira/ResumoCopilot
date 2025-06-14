@@ -1,0 +1,14 @@
+Neste desafio, explorei a criação de um copiloto usando a ferramenta Microsoft Copilot Studio, uma plataforma da Power Platform que permite criar assistentes virtuais de forma prática, sem precisar programar. A proposta é permitir que organizações automatizem atendimentos, integrem sistemas e ofereçam soluções conversacionais personalizadas com inteligência artificial.
+
+O que aprendi:
+Como criar um novo copiloto no Copilot Studio, definindo nome e idioma.
+
+A importância de tópicos: são blocos de conversa que guiam o copiloto a responder perguntas ou realizar ações.
+
+A interface é intuitiva e baseada em fluxogramas, facilitando a construção de conversas lógicas.
+
+É possível testar o copiloto em tempo real, simulando interações.
+
+O copiloto pode ser publicado e integrado em sites, aplicativos ou canais como o Microsoft Teams.
+
+Aprendi também a configurar ações como respostas automáticas, chamadas de API e acesso a dados via Dataverse.
